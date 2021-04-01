@@ -1,6 +1,7 @@
 <h1 align="center">
     <a href="http://sylius.org" target="_blank">
         <img src="http://demo.sylius.org/assets/shop/img/logo.png" />
+        
     </a>
     <br />
     <a href="https://packagist.org/packages/sylius/sylius" title="License" target="_blank">
